@@ -9,7 +9,7 @@ Latitude vs. Cloudiness
 Latitude vs. Wind Speed
 Next step, we computed the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
 
-![alt text]([http://url/to/img.png](https://github.com/TaiShan16/python-api-challenge/blob/main/output_data/Fig1.png))
+![alt text](http://url/to/img.png](https://github.com/TaiShan16/python-api-challenge/blob/main/output_data/Fig1.png)
 
 Part 2: VacationPy
 
