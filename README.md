@@ -7,7 +7,7 @@ Latitude vs. Temperature
 Latitude vs. Humidity
 Latitude vs. Cloudiness
 Latitude vs. Wind Speed
-Next step, we computed the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). Please see other impages of the scatter plots in output folders.
+Next step, we computed the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). Please see other images of the scatter plots in output folders.
 
 ![alt text](https://github.com/TaiShan16/python-api-challenge/blob/main/output_data/Fig1.png)
 
